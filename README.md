@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jatinselmokar
-- 👀 I’m interested in applying data science and statistical concepts to solving supply chain inefficiencies
-- 🌱 I’m currently learning about NLP
+- 👀 I’m interested in applying data science and statistical concepts to build data products
+- 🌱 I’m currently learning about NLP & AWS
 - 💞️ I’m looking to collaborate on Deep Learning & Analytical Solutions
 - 📫 Lets Connect on Github!
 
